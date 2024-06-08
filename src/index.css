@@ -39,21 +39,3 @@
   font-weight: 700;
   src: url('./assets/fonts/IBMPlexSansKR-Bold.ttf');
 }
-
-:root {
-  font-family: 'IBMPlexSansKR', Inter, system-ui, Avenir, Helvetica, Arial,
-    sans-serif;
-  line-height: 1.5;
-  font-weight: 400;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  min-width: 320px;
-  min-height: 100vh;
-}
